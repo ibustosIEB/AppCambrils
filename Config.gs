@@ -9,4 +9,4 @@
 //        https://docs.google.com/spreadsheets/d/1Ftku5jJGwbAK1DYrGKYQ25KeGaM1al07yMZMROtC1bA/edit
 // PAS 3: Enganxa'l aquí entre les cometes i fes clasp push
 
-var SPREADSHEET_ID = '1jNO9ucNY3UGwSAh-WxCAeVWPMlSxmrbfNRbAJiSmRqu5NMofx252Zsjg';
+var SPREADSHEET_ID = '1Ftku5jJGwbAK1DYrGKYQ25KeGaM1al07yMZMROtC1bA';
